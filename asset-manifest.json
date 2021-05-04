@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/firebasedatabase/static/css/main.874bdb8b.chunk.css",
+    "main.js": "/firebasedatabase/static/js/main.91cd41e2.chunk.js",
+    "main.js.map": "/firebasedatabase/static/js/main.91cd41e2.chunk.js.map",
+    "runtime-main.js": "/firebasedatabase/static/js/runtime-main.1fc536ce.js",
+    "runtime-main.js.map": "/firebasedatabase/static/js/runtime-main.1fc536ce.js.map",
+    "static/js/2.90211b26.chunk.js": "/firebasedatabase/static/js/2.90211b26.chunk.js",
+    "static/js/2.90211b26.chunk.js.map": "/firebasedatabase/static/js/2.90211b26.chunk.js.map",
+    "index.html": "/firebasedatabase/index.html",
+    "static/css/main.874bdb8b.chunk.css.map": "/firebasedatabase/static/css/main.874bdb8b.chunk.css.map",
+    "static/js/2.90211b26.chunk.js.LICENSE.txt": "/firebasedatabase/static/js/2.90211b26.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/firebasedatabase/static/media/background.9b2b7bbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fc536ce.js",
+    "static/js/2.90211b26.chunk.js",
+    "static/css/main.874bdb8b.chunk.css",
+    "static/js/main.91cd41e2.chunk.js"
+  ]
+}
